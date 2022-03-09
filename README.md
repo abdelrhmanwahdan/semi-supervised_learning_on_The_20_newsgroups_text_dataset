@@ -26,5 +26,5 @@
     - [Self-supervised Semi-supervised Learning for Data Labeling and Quality Evaluation](https://arxiv.org/abs/2111.10932) research paper.
     - [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821) research paper.
     - [SimCSE](https://github.com/princeton-nlp/SimCSE) library.
-- I just want to show my appreciation to the teams worked on them and their great effort.
+- I just want to show my appreciation to the teams worked on the research papers and the library for their great effort.
 
